@@ -1,0 +1,4 @@
+<?php
+
+$s_plugin_TaskProgress_title                 = 'Task Progress';
+$s_plugin_TaskProgress_description           = 'Shows a progress bar in tasks with child tasks';
